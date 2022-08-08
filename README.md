@@ -20,6 +20,8 @@ GRUPO #4 PROGRAMACION
 ALBINCY CARMONA
 BRYAN PAZ
 
+Tareas a realizar
+
 UML 
 Analizar los modulos de la lluvia de ideas
 Casos de uso 
